@@ -499,7 +499,7 @@ body{
     flex-direction: row;
 }
 .about-img img{
-    width: 100%;
+    width: 78%;
     height:380px;
     padding: 30px;
     border-radius: 40px;
