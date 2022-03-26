@@ -481,6 +481,7 @@ body{
     font-size: 35px;
     opacity: 1;
     margin-bottom: 10px;
+    margin-left: -375px;
     display: block;
 }
 .about-second-line{
