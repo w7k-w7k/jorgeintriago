@@ -499,10 +499,11 @@ body{
     flex-direction: row;
 }
 .about-img img{
-    width: 78%;
-    height:380px;
-    padding: 30px;
-    border-radius: 40px;
+    width: 55%;
+    height:300px;
+    padding: 20px;
+    border-radius: 90px;
+    margin-top: -100px;
 }
 .about-img {
     width: 550px;
