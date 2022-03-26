@@ -34,7 +34,9 @@ input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
-
+.catamaran{
+  font-family: catamaran;
+}
 /* Firefox */
 input[type=number] {
   -moz-appearance: textfield;
